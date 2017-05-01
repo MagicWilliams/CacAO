@@ -1,0 +1,17 @@
+@font-face {
+	src: url("futura/ao-heavy.otf");
+	font-family: "FuturaHeavy"
+}
+
+* {
+	text-align: left;
+	font-family: FuturaHeavy;
+}
+
+body {
+	background-color: #A8A8A8;
+}
+
+h1 {
+	color: red;
+}
